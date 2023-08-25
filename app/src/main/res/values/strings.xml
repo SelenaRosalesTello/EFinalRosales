@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">eFinalRosalesTello</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="get_started">Get Started</string>
+    <string name="get_started_title">Cat Adventure</string>
+</resources>
